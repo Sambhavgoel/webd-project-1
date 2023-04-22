@@ -1,0 +1,60 @@
+h1{
+   
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    color:whitesmoke;
+    
+    
+}
+div{
+    font-size: larger;
+    margin-bottom: 50px;
+    color:whitesmoke;
+}
+body{
+    background: url("sunset.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -400%;
+    height: 100vh;
+    background-size: 100%;
+  
+    
+    
+    
+}
+.hello{
+    padding-bottom: 10px;
+    background-color:rgba(0,0,0,0.4);
+    width:100%;
+    
+    padding-left: 20px;
+    width: 400px;
+    align-items: center;
+    font-weight: 600;
+    border-radius: 30px;
+    left:36%;
+    top:120px;
+    position: relative;
+    
+    
+    
+}
+label{
+
+    font-style:italic ;
+    font-size: 20px;
+    
+}
+input{
+    border-radius: 30px;
+}
+.sub input:hover{
+    border-radius: 30px;
+    border-color: #F2921D;
+
+}
